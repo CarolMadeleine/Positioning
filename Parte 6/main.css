@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+.uno{
+	background-color: #EE3E64;
+}
+.dos{
+	background-color: #44ACCF;
+	left: 200px;
+	position: absolute;
+}
+.tres{
+	background-color: #B7D84B;
+}
+.cuatro{
+	background-color: #FFFF00;
+}
